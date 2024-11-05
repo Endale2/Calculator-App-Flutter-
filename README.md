@@ -1,16 +1,14 @@
-# calcx
+#Basic Calculator App
+This is a simple calculator app built with Flutter for Android devices. It provides essential arithmetic functions, allowing users to perform basic calculations, including addition, subtraction, multiplication, division, and percentage calculations.
 
-A new Flutter project.
+#Features
+Addition (+)
+Subtraction (-)
+Multiplication (*)
+Division (/)
+Percentage (%)
 
-## Getting Started
+#Screenshot
 
-This project is a starting point for a Flutter application.
+![photo_2024-11-05_10-32-03](https://github.com/user-attachments/assets/51768761-4c01-4df7-b584-a6396d8a2feb)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
